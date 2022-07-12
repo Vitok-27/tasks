@@ -1,0 +1,15 @@
+D:\Homework\Razzorenov\Tasks\Ex002\bin\Debug\net6.0\Ex002.exe
+D:\Homework\Razzorenov\Tasks\Ex002\bin\Debug\net6.0\Ex002.deps.json
+D:\Homework\Razzorenov\Tasks\Ex002\bin\Debug\net6.0\Ex002.runtimeconfig.json
+D:\Homework\Razzorenov\Tasks\Ex002\bin\Debug\net6.0\Ex002.dll
+D:\Homework\Razzorenov\Tasks\Ex002\bin\Debug\net6.0\Ex002.pdb
+D:\Homework\Razzorenov\Tasks\Ex002\obj\Debug\net6.0\Ex002.csproj.AssemblyReference.cache
+D:\Homework\Razzorenov\Tasks\Ex002\obj\Debug\net6.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\Razzorenov\Tasks\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfoInputs.cache
+D:\Homework\Razzorenov\Tasks\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfo.cs
+D:\Homework\Razzorenov\Tasks\Ex002\obj\Debug\net6.0\Ex002.csproj.CoreCompileInputs.cache
+D:\Homework\Razzorenov\Tasks\Ex002\obj\Debug\net6.0\Ex002.dll
+D:\Homework\Razzorenov\Tasks\Ex002\obj\Debug\net6.0\refint\Ex002.dll
+D:\Homework\Razzorenov\Tasks\Ex002\obj\Debug\net6.0\Ex002.pdb
+D:\Homework\Razzorenov\Tasks\Ex002\obj\Debug\net6.0\Ex002.genruntimeconfig.cache
+D:\Homework\Razzorenov\Tasks\Ex002\obj\Debug\net6.0\ref\Ex002.dll
