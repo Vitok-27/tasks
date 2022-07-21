@@ -1,17 +1,18 @@
-﻿
+﻿// Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+// Не могу разобраться, почемц цикл не работает.
 Console.WriteLine("Введите чилсо");
-int n = Convert.ToInt32 (Console.ReadLine());
-int a = n;
-int b = (0);
-int c = (0);
-int d = (0);
-while ( n > 0 )
+int a = Convert.ToInt32 (Console.ReadLine());
+int b = 0;
+int c= 0;
+while (a>0) 
 {
-b = (n % 10); 
-c = (n % 100 / 10); 
-d = (n / 10); 
+c = c*10;
+b = a%10; 
+c = c+b; 
+a = a/10; 
 }
-if ( n == a)
-Console.WriteLine("YES");
+
+if (a==c)
+Console.WriteLine("Это палиндром");
 else 
-Console.WriteLine("NO");
+Console.WriteLine("Это не палиндром");
