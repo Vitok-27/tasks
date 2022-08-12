@@ -1,0 +1,15 @@
+D:\Homework\Razzorenov\Tasks\Ex014\bin\Debug\net6.0\Ex014.exe
+D:\Homework\Razzorenov\Tasks\Ex014\bin\Debug\net6.0\Ex014.deps.json
+D:\Homework\Razzorenov\Tasks\Ex014\bin\Debug\net6.0\Ex014.runtimeconfig.json
+D:\Homework\Razzorenov\Tasks\Ex014\bin\Debug\net6.0\Ex014.dll
+D:\Homework\Razzorenov\Tasks\Ex014\bin\Debug\net6.0\Ex014.pdb
+D:\Homework\Razzorenov\Tasks\Ex014\obj\Debug\net6.0\Ex014.csproj.AssemblyReference.cache
+D:\Homework\Razzorenov\Tasks\Ex014\obj\Debug\net6.0\Ex014.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\Razzorenov\Tasks\Ex014\obj\Debug\net6.0\Ex014.AssemblyInfoInputs.cache
+D:\Homework\Razzorenov\Tasks\Ex014\obj\Debug\net6.0\Ex014.AssemblyInfo.cs
+D:\Homework\Razzorenov\Tasks\Ex014\obj\Debug\net6.0\Ex014.csproj.CoreCompileInputs.cache
+D:\Homework\Razzorenov\Tasks\Ex014\obj\Debug\net6.0\Ex014.dll
+D:\Homework\Razzorenov\Tasks\Ex014\obj\Debug\net6.0\refint\Ex014.dll
+D:\Homework\Razzorenov\Tasks\Ex014\obj\Debug\net6.0\Ex014.pdb
+D:\Homework\Razzorenov\Tasks\Ex014\obj\Debug\net6.0\Ex014.genruntimeconfig.cache
+D:\Homework\Razzorenov\Tasks\Ex014\obj\Debug\net6.0\ref\Ex014.dll
