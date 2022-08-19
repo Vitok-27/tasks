@@ -3,8 +3,8 @@ Console.Write("Введите строку:");
 int rows = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите столбец:");
 int columns = Convert.ToInt32(Console.ReadLine());
-int n = 3; // размер массива
-int m = 4; // размер массива
+int n = 3;
+int m = 4; 
 Random random = new Random();
 int[,] arr = new int[n, m];
 Console.WriteLine("Исходный массив:");
